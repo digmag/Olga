@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(250,250,250);
+}
+.div{
+    background-color: blue;
+}
+
+.blacktext{
+    color: black;
+    user-select: none;
+}
+.blacktext:hover{
+    color:black;
+}
